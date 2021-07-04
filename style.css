@@ -66,7 +66,7 @@ padding 2%;
     border-image-slice:1 ;
 }
 
-#noob{
+#noob-dev{
     border-left: 7px solid;
     border-radius: 2;
     border-image: linear-gradient(blue,cyan);
@@ -74,6 +74,9 @@ padding 2%;
 }
 
 footer p{
+    text-align: center;
+}
+.experience-center{
     text-align: center;
 }
 
